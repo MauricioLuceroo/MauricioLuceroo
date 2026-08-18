@@ -24,7 +24,7 @@ I specialize in building robust, scalable test automation frameworks for Web, Mo
   Mobile automation framework using **Java, Appium, TestNG and POM**.
 
 * **[API Test Automation](https://github.com/MauricioLuceroo/Playwright)**
-  API testing project covering **REST API validation, assertions, JSON responses and negative scenarios** using **Postman**.
+API automation project using Playwright and TypeScript, covering REST API requests, response validation, status codes, JSON assertions and negative scenarios.
 
 ---
 
